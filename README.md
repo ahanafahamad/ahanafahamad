@@ -3,10 +3,9 @@
 <p><strong>High School Student | Aspiring Full-Stack Developer | Digital Creator</strong></p>
 
 <p>
-<a href="https://ahanaf-ahamad.wuaze.com?source=github"><img src="https://img.shields.io/badge/Visit-Portfolio-blue" alt="Portfolio"></a>
+<a href="https://ahanafahamad.vercel.app?source=github"><img src="https://img.shields.io/badge/Visit-Portfolio-blue" alt="Portfolio"></a>
 <img src="https://img.shields.io/badge/Age-14-green" alt="Age">
-<img src="https://img.shields.io/badge/Focus-Web%20Development-orange" alt="Focus">
-</p>
+<img src="https://img.shields.io/badge/Focus-Web%20Development-orange" alt="Focus"></p>
 </div>
 
 ---
@@ -62,7 +61,7 @@ I enjoy working with JavaScript, especially solving complex logic and creating i
 
 ## 🌐 Connect With Me
 
-🔗 Portfolio: https://ahanaf-ahamad.wuaze.com
+🔗 Portfolio: https://ahanafahamad.vercel.app/
 
 ---
 
