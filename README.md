@@ -1,71 +1,55 @@
 <div align="center">
 
-# 💀 AHANAF AHAMAD — CodeMonarch
+# AHANAF AHAMAD
 
-```
-╔════════════════════════════════════════════════════════════════╗
-║  "I AM NOT SPECIAL, I AM NOT UNIQUE, I AM JUST ONE MORE       ║
-║   MONSTER LEARNING TO CODE IN THIS DIGITAL REALM"             ║
-║                                  — Level Up Mindset            ║
-╚════════════════════════════════════════════════════════════════╝
-```
+**Full-Stack Developer** · **14 Years Old** · **Self-Taught** · **Passionate Builder**
 
-**Full-Stack Web Developer in Progress** • **14 Years Old** • **Self-Taught** • **Driven by Curiosity**
-
-[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Now-black?style=for-the-badge&logoColor=white)](https://ahanafahamad.vercel.app?source=github)
-[![Status](https://img.shields.io/badge/STATUS-Actively%20Coding-success?style=for-the-badge)](https://github.com/ahanafahamad?tab=repositories)
-[![Age](https://img.shields.io/badge/LEVEL-14-blueviolet?style=for-the-badge)](#)
+[![Portfolio](https://img.shields.io/badge/Portfolio-ahanafahamad.vercel.app-000?style=flat&logo=vercel)](https://ahanafahamad.vercel.app?source=github)
+[![GitHub](https://img.shields.io/badge/GitHub-@ahanafahamad-000?style=flat&logo=github)](https://github.com/ahanafahamad)
+[![Status](https://img.shields.io/badge/Status-Actively%20Developing-00d26a?style=flat)](https://github.com/ahanafahamad?tab=repositories)
 
 </div>
 
 ---
 
-## 📖 WHO AM I?
+## About
 
-Started my journey at **age 13** with a simple question: *"How does this work?"*
+Self-taught full-stack developer with a passion for creating elegant, high-performance web applications. Started coding at 13 with a curiosity about how technology works, and have been consistently building and learning ever since.
 
-That curiosity ignited an unstoppable drive to learn, build, and master the art of web development. Like a protagonist leveling up through challenges, I'm grinding through complex problems, mastering new technologies, and transforming ideas into reality through code.
-
-**Every line of code written** = One step closer to greatness.
+Specializing in modern JavaScript ecosystems, interactive UI/UX, and full-stack architecture. Focused on writing clean, maintainable code and delivering production-grade solutions.
 
 ---
 
-## 🎯 CORE OBJECTIVES
+## Tech Stack
 
-```
-🎮 Become a Full-Stack Web Developer
-📱 Master JavaScript, React & Modern Web Technologies  
-⚙️ Build production-grade applications that matter
-🎨 Create stunning, interactive digital experiences
-🚀 Ship projects that solve real problems
-```
-
----
-
-## ⚡ POWER LEVELS — Technical Arsenal
-
-### 🖥️ Core Languages & Frameworks
+### Frontend Development
 <div align="center">
 
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 </div>
 
-### 🎨 Frontend & Styling
+### Animation & Interactions
 <div align="center">
 
-![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logoColor=white)
-![CSS Animations](https://img.shields.io/badge/CSS%20Animations-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Canvas API](https://img.shields.io/badge/Canvas%20API-000?style=flat-square&logoColor=white)
 
 </div>
 
-### 🔧 Backend & Web Scraping
+### Backend & Server
+<div align="center">
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express-000?style=flat-square&logo=express&logoColor=white)
+
+</div>
+
+### Data & Automation
 <div align="center">
 
 ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4?style=flat-square&logoColor=white)
@@ -74,108 +58,70 @@ That curiosity ignited an unstoppable drive to learn, build, and master the art 
 
 </div>
 
-### 📋 Specialized Skills Breakdown
+---
 
-| **Category** | **Technologies** | **Proficiency** |
-|:--|:--|:--:|
-| **Frontend Development** | HTML5, CSS3, JavaScript ES6+, React, Responsive Design | ⭐⭐⭐⭐ |
-| **Animation & Interactions** | GSAP, CSS Animations, Interactive UI Elements, Micro-interactions | ⭐⭐⭐⭐ |
-| **Styling & Design** | Tailwind CSS, Custom CSS, Design Systems, UI/UX Implementation | ⭐⭐⭐⭐ |
-| **Backend Development** | Node.js, Express.js, RESTful APIs, Server Architecture | ⭐⭐⭐ |
-| **Web Scraping & Automation** | Puppeteer, Cheerio, DOM Manipulation, Headless Browsing | ⭐⭐⭐⭐ |
-| **HTTP & API Requests** | Axios, Fetch API, API Integration, Data Fetching | ⭐⭐⭐⭐ |
-| **Game Development** | JavaScript Game Mechanics, Physics-based Interactions, Canvas API | ⭐⭐⭐ |
-| **Problem Solving** | Complex Logic, Algorithm Design, Debugging, Optimization | ⭐⭐⭐⭐ |
+## Core Competencies
+
+| Domain | Skills |
+|:-------|:-------|
+| **Frontend Architecture** | React, Component Design, State Management, Responsive Design |
+| **Styling & Animation** | Tailwind CSS, CSS3, GSAP, Interactive UI/UX |
+| **Backend Development** | Node.js, Express.js, RESTful APIs, Server Architecture |
+| **Web Scraping & Automation** | Puppeteer, Cheerio, Headless Browsing, DOM Parsing |
+| **API Integration** | Axios, Fetch API, Data Fetching, External Services |
+| **Game Development** | Canvas API, Physics Simulation, Game Loop Architecture |
+| **Problem Solving** | Algorithm Design, Debugging, Code Optimization, System Design |
 
 ---
 
-## 📚 CURRENT TRAINING
-
-```
-→ Advanced JavaScript Patterns & Algorithms
-→ React.js Deep Dive (Hooks, State Management, Performance)
-→ Full-Stack Architecture & Scalability
-→ Web Scraping & Data Extraction Best Practices
-→ Backend Optimization & Database Design
-→ UI/UX Design Principles & Implementation
-```
-
----
-
-## 🌟 FEATURED BATTLES — Projects
+## Featured Projects
 
 ### 🌐 YouTube Channel Website
-Custom-built portfolio and content hub for digital presence using React & Tailwind CSS
+Custom-built portfolio and content platform using React and Tailwind CSS with smooth animations and optimal performance.
 
-### 🧰 Developer Tools Suite  
-Utility applications designed to boost developer productivity with GSAP animations and smooth interactions
+### 🧰 Developer Tools Suite
+Collection of utility applications designed to enhance developer productivity, featuring interactive interfaces and real-time functionality.
 
-### 🎮 Flappy Bird Clone
-Interactive 2D game built with vanilla JavaScript — demonstrating game mechanics & physics
+### 🎮 2D Game Engine
+Interactive game built with vanilla JavaScript, demonstrating physics simulation, collision detection, and game loop architecture.
 
-### 🔥 Web Scraping Projects
-Automated data extraction using Puppeteer, Cheerio, and Axios for real-world applications
-
-### 💻 More incoming...
-Each project = A new level conquered
+### 📊 Web Scraping & Data Pipeline
+Automated data extraction and processing using Puppeteer and Cheerio for real-world applications and analytics.
 
 ---
 
-## 📊 ACTIVITY HEAT MAP
+## Current Focus
+
+- Advanced JavaScript patterns and algorithm optimization
+- React.js deep dive (hooks, context, performance)
+- Full-stack system design and scalability
+- Web scraping best practices and automation
+- UI/UX design principles and implementation
+
+---
+
+## Statistics
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanafahamad&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=3600)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanafahamad&theme=github_dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true)](https://github.com/ahanafahamad)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafahamad&layout=compact&theme=dark&hide_border=true&cache_seconds=3600)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafahamad&layout=compact&theme=github_dark&hide_border=true)](https://github.com/ahanafahamad)
 
 </div>
 
 ---
 
-## 🔗 CONNECT & FOLLOW THE JOURNEY
+## Connect
 
-| Platform | Link |
-|----------|------|
-| 🌐 **Portfolio** | [ahanafahamad.vercel.app](https://ahanafahamad.vercel.app/) |
-| 💻 **GitHub** | [github.com/ahanafahamad](https://github.com/ahanafahamad) |
-
----
-
-## 💭 THE MANTRA
-
-```
-┌─────────────────────────────────────────────────┐
-│                                                 │
-│  "Every expert was once a beginner who         │
-│   refused to give up."                         │
-│                                                 │
-│  The game isn't won by natural talent,        │
-│  but by those who grind the hardest.          │
-│                                                 │
-│  I master every tool. I learn every craft.    │
-│  From animations to scraping. Frontend to     │
-│  backend. I am the full-stack developer       │
-│  that tomorrow needs.                         │
-│                                                 │
-│  I'm leveling up. Every. Single. Day.         │
-│                                                 │
-└─────────────────────────────────────────────────┘
-```
+- **Portfolio:** [ahanafahamad.vercel.app](https://ahanafahamad.vercel.app/)
+- **GitHub:** [github.com/ahanafahamad](https://github.com/ahanafahamad)
+- **Email:** ahanafahamad1858@gmail.com
 
 ---
 
 <div align="center">
 
-### ⚔️ "Not yet. But soon." ⚔️
-
-**Turning ambition into code. Transforming passion into excellence.**
-
-```
-Status: IN PROGRESS | Determination: MAXIMUM | Drive: UNSTOPPABLE
-Tech Stack: EXPANDING | Skills: ADVANCING | Future: LIMITLESS
-```
-
-*Last Updated: 2026 | Version: Level 14 Unlocked*
+**Building the future, one line of code at a time.**
 
 </div>
