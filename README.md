@@ -1,70 +1,146 @@
 <div align="center">
-<h1>👋 Hello, I'm Ahanaf Ahamad (CodeMonarch)</h1>
-<p><strong>High School Student | Aspiring Full-Stack Developer | Digital Creator</strong></p>
 
-<p>
-<a href="https://ahanafahamad.vercel.app?source=github"><img src="https://img.shields.io/badge/Visit-Portfolio-blue" alt="Portfolio"></a>
-<img src="https://img.shields.io/badge/Age-14-green" alt="Age">
-<img src="https://img.shields.io/badge/Focus-Web%20Development-orange" alt="Focus"></p>
-</div>
+# 💀 AHANAF AHAMAD — CodeMonarch
 
----
+```
+╔════════════════════════════════════════════════════════════════╗
+║  "I AM NOT SPECIAL, I AM NOT UNIQUE, I AM JUST ONE MORE       ║
+║   MONSTER LEARNING TO CODE IN THIS DIGITAL REALM"             ║
+║                                  — Level Up Mindset            ║
+╚════════════════════════════════════════════════════════════════╝
+```
 
-## 📖 About Me
+**Full-Stack Web Developer in Progress** • **14 Years Old** • **Self-Taught** • **Driven by Curiosity**
 
-I’m a passionate self-taught developer who started coding at the age of 13, driven by curiosity about how apps and AI work. Since then, I’ve been continuously learning and building projects to turn ideas into real digital experiences.
-
-I enjoy working with JavaScript, especially solving complex logic and creating interactive, user-friendly applications.
-
----
-
-## 🚀 Projects
-
-- 🌐 Website for my YouTube channel
-- 🧰 Developer tools
-- 🎮 Flappy Bird-style game
-- ⚡ More projects coming soon...
-
----
-
-## 🛠️ Technical Skills
-
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white" />
-<img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" />
-<img src="https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white" />
-<img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge" />
-<img src="https://img.shields.io/badge/gsap-%2388CE02.svg?style=for-the-badge" />
+[![Portfolio](https://img.shields.io/badge/🌐%20PORTFOLIO-Visit%20Now-black?style=for-the-badge&logoColor=white)](https://ahanafahamad.vercel.app?source=github)
+[![Status](https://img.shields.io/badge/STATUS-Actively%20Coding-success?style=for-the-badge)](https://github.com/ahanafahamad?tab=repositories)
+[![Age](https://img.shields.io/badge/LEVEL-14-blueviolet?style=for-the-badge)](#)
 
 </div>
 
 ---
 
-## 📚 Currently Learning
+## 📖 WHO AM I?
 
-- Advanced JavaScript (logic & problem solving)
-- React.js (modern UI/UX)
-- Clean and responsive design principles
+Started my journey at **age 13** with a simple question: *"How does this work?"*
 
----
+That curiosity ignited an unstoppable drive to learn, build, and master the art of web development. Like a protagonist leveling up through challenges, I'm grinding through complex problems, mastering new technologies, and transforming ideas into reality through code.
 
-## 🎯 Goals
-
-- Become a Full-Stack Web Developer
-- Build impactful real-world applications
-- Create engaging 2D and 3D JavaScript games
+**Every line of code written** = One step closer to greatness.
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 CORE OBJECTIVES
 
-🔗 Portfolio: https://ahanafahamad.vercel.app/
+```
+🎮 Become a Full-Stack Web Developer
+📱 Master JavaScript, React & Modern Web Technologies  
+⚙️ Build production-grade applications that matter
+🎨 Create stunning, interactive digital experiences
+🚀 Ship projects that solve real problems
+```
+
+---
+
+## ⚡ POWER LEVELS — Technical Arsenal
+
+### Languages & Frameworks
+<div align="center">
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404d59?style=flat-square&logo=express&logoColor=white)
+
+</div>
+
+### Specialized Skills
+- **Frontend Mastery** — HTML5, CSS3, JavaScript ES6+, React, Responsive Design
+- **Animation & Interactions** — GSAP, CSS Animations, Interactive UI Elements
+- **Backend Fundamentals** — Node.js, Express.js, RESTful APIs
+- **Problem Solving** — Complex logic, algorithmic thinking, creative solutions
+- **Game Development** — JavaScript game mechanics, physics-based interactions
+
+---
+
+## 📚 CURRENT TRAINING
+
+```
+→ Advanced JavaScript Patterns & Algorithms
+→ React.js Deep Dive (Hooks, State Management, Performance)
+→ UI/UX Design Principles & Implementation
+→ Full-Stack Architecture & Scalability
+```
+
+---
+
+## 🌟 FEATURED BATTLES — Projects
+
+### 🌐 YouTube Channel Website
+Custom-built portfolio and content hub for digital presence
+
+### 🧰 Developer Tools Suite  
+Utility applications designed to boost developer productivity
+
+### 🎮 Flappy Bird Clone
+Interactive 2D game built with vanilla JavaScript — demonstrating game mechanics & physics
+
+### 🔥 More incoming...
+Each project = A new level conquered
+
+---
+
+## 📊 ACTIVITY HEAT MAP
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ahanafahamad&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&cache_seconds=3600)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ahanafahamad&layout=compact&theme=dark&hide_border=true&cache_seconds=3600)
+
+</div>
+
+---
+
+## 🔗 CONNECT & FOLLOW THE JOURNEY
+
+| Platform | Link |
+|----------|------|
+| 🌐 **Portfolio** | [ahanafahamad.vercel.app](https://ahanafahamad.vercel.app/) |
+| 💻 **GitHub** | [github.com/ahanafahamad](https://github.com/ahanafahamad) |
+
+---
+
+## 💭 THE MANTRA
+
+```
+┌─────────────────────────────────────────────────┐
+│                                                 │
+│  "Every expert was once a beginner who         │
+│   refused to give up."                         │
+│                                                 │
+│  The game isn't won by natural talent,        │
+│  but by those who grind the hardest.          │
+│                                                 │
+│  I'm leveling up. Every. Single. Day.         │
+│                                                 │
+└─────────────────────────────────────────────────┘
+```
 
 ---
 
 <div align="center">
-<p>⚡ "Turning ideas into reality through code."</p>
+
+### ⚔️ "Not yet. But soon." ⚔️
+
+**Turning ambition into code. Transforming passion into excellence.**
+
+```
+Status: IN PROGRESS | Determination: MAXIMUM | Drive: UNSTOPPABLE
+```
+
+*Last Updated: 2026 | Version: Level 14 Unlocked*
+
 </div>
